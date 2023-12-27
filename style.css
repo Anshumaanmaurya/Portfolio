@@ -1,0 +1,122 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    
+    background-color:rgb(234, 226, 183);
+}
+.header{
+    background-color: whitesmoke;
+    opacity: 0.77;
+    height: 11vh;
+    margin: 15px;
+    
+}
+.nav ul li {
+    display: inline;
+    
+}
+.nav ul li a{
+    text-decoration: none;
+    font-size: 5vh;
+    color: black;
+    padding: 55px;
+    font-weight: 400;
+   
+}
+.nav ul{
+    padding: 14px;
+    display: flex;
+    justify-content: flex-end;
+}
+.hero{
+    background-color:rgb(247, 127, 0);
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+    height: 40vh;
+}
+.intro h1{
+   font-weight: 200;
+   padding: 20px;
+}
+.profile{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 50px;
+    
+}
+.image{
+    padding-right: 90px;
+}
+.image img{
+        height:400px;
+        margin: 20px;
+        border-radius: 100%;
+    }
+.about{
+    margin-right: 50px;
+    padding: 68px;
+}
+.about h2{
+    font-size: 33px;
+    padding-bottom: 12px;
+}
+.about p{
+    font-size: 22px;
+}
+.pro{
+    margin: 50px;
+    display: flex;
+}
+.tindog{
+    height: 400px;
+}
+.h3 h2{
+    margin: 50px;
+    font-size: 50px;
+}
+.para{
+    color: whitesmoke;
+    font-size: 78px;
+    padding-top: 174px;
+    padding-left: 40px;
+}
+.pro2{
+    margin: 50px;
+    display: flex;
+}
+.mondrian{
+    height: 400px;
+}
+.container{
+    margin: 50px;
+    background-color: whitesmoke;
+    color: brown;
+}
+.ptanhi h2{
+    margin: 20px;
+    font-size: 58px;
+}
+.phone p{
+    margin: 20px;
+    padding: 5px;
+    font-size: 22px;
+}
+.foot{
+    height: 35px;
+    display: flex;
+    padding-top: 25px;
+    background-color: rgb(252, 191, 73);
+    justify-content: center;
+}
+.fut{
+   padding: 15px;
+ 
+}
